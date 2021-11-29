@@ -1,0 +1,35 @@
+/*reset*/
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font: 1.6rem sans-serif;
+    margin: 0;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+h1,h2,h3,p,figure,ol,ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+h1,h2,h3{
+    font-weight: normal;
+}
+
+a{
+    text-decoration: none;
+    color: #000;
+}
+
+/*thème*/
+
+:root{
+    --primary-color()
+}
