@@ -31,5 +31,28 @@ a{
 /*thème*/
 
 :root{
-    --primary-color()
+    --color-primary: #1d1d1d;
+    --color-secondary: #2b5797;
+}
+
+header h1{
+    line-height: 6.5rem;
+    text-align: center;
+}
+
+header img{
+    height : 15rem;
+    width : 12rem;
+    padding: 0;
+}
+header{
+    background-color: var(--color-secondary);
+}
+
+nav{
+    text-align: center;
+}
+main, footer{
+    max-width: 80rem;
+    margin: 0 auto;
 }
