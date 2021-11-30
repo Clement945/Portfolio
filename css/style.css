@@ -123,7 +123,7 @@ main ul li img{
     width: 100%;
 }
 
-main section ul li.image{
+main section:nth-child(2) ul li{
     display: inline-block;
     /*width: calc(100% / 6 - 1rem);*/
     height: 10rem;
@@ -161,7 +161,7 @@ footer *{
     section ul li{
         text-align: justify;
     }
-    main section ul li.image{
+    main section:nth-child(2) ul li{
         width: 70%;
         height: 10%;
         margin: 4.5rem;
