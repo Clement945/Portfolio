@@ -10,6 +10,8 @@ body{
     margin: 0;
 }
 
+
+
 *{
     box-sizing: border-box;
 }
@@ -36,6 +38,7 @@ a{
     --color-secondary: #2b5797;
     --color-trois: #FFFFFF;
     --color-quatre: #DC143C;
+    --color-cinq: #A9A9A9;
 }
 
 header h1{
@@ -134,6 +137,8 @@ main section ul li.image{
 
 footer *{
     text-align: center;
+    background-color: var(--color-cinq);
+    color: var(--color-trois)
 }
 
 /*responsive */
@@ -170,6 +175,7 @@ footer *{
         display: grid;
         height: 20vh;   
         align-items:center;  /*met au milieu le copyright */
+        background-color: var(--color-cinq);
     }
 }
 
