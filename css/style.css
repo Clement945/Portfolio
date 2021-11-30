@@ -47,6 +47,7 @@ header h1{
 section, footer{
     max-width: 80rem;
     margin: 0 auto 3rem;
+    line-height: 3rem;
 }
 
 header img{
@@ -87,7 +88,7 @@ section h2{
 section p{
     margin: 1rem;
     border: .1rem solid var(--color-primary);
-    line-height: 3rem;
+    line-height: 4rem;
 }
 
 
