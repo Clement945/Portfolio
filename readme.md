@@ -71,13 +71,13 @@ a{
     --color-trois: #FFFFFF;
     --color-quatre: #DC143C;
     --color-cinq: #A9A9A9;
+    --color-six: rgb(240, 232, 232);
 }
 
 header h1{
-    line-height: 4rem;
+    line-height: 8.5rem;
     text-align: center;
     color: var(--color-trois);
-    margin-top: -5rem;
     
 }
 main, footer{
