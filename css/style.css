@@ -39,7 +39,7 @@ a{
     --color-trois: #FFFFFF;
     --color-quatre: #DC143C;
     --color-cinq: #A9A9A9;
-    --color-six: khaki;
+    --color-six: rgb(240, 232, 232);
 }
 
 header h1{
@@ -72,7 +72,7 @@ header img{
     height : 10rem;
     width : 8rem;
     object-fit: cover;  /* couleur ou noir et blanc */
-    filter: grayscale(100%);  /* couleur ou noir et blanc en arrangeant */
+    filter: grayscale(15%);  /* couleur ou noir et blanc en arrangeant */
     clip-path: circle(45%);  /* met en rond */
     z-index: 2;
 }
