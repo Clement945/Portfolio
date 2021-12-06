@@ -94,4 +94,3 @@ main, footer{
 * asset/
 * js/
 * favicon/
-* [E-mail](mailto:clement.arki@hotmail.fr)
