@@ -226,9 +226,9 @@ footer *{
     }
     main section:nth-child(2) ul li{
         display: inline-block;
-        width: calc(100% / 3 - 1rem);
-        margin: 0rem;
-        padding: 1rem;
+        width: calc(100% / 5 - 1rem);
+        margin: 0.3rem;
+        padding: 0rem;
         border : .1rem solid var(--color-trois);
     }
     main section:nth-child(2) ul{
