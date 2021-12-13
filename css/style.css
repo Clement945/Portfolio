@@ -181,9 +181,7 @@ footer *{
 /*responsive */
 
 @media screen and (max-width:70.0rem){
-    html{
-    scroll-behavior: smooth;
-    }
+
     main, footer {
         margin: 0;
         width:  auto;
@@ -197,8 +195,13 @@ footer *{
     main section h2{
         margin: 0;
     }
+
     main section:nth-child(1) h2{
         margin-top: 0.6rem;
+    }
+
+    main section h2{
+        font-size: small;
     }
     main section{
         padding: 0;
