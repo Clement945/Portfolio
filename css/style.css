@@ -194,6 +194,9 @@ footer *{
     main section h2{
         margin: 0;
     }
+    main section:nth-child(1) h2{
+        margin-top: 0.6rem;
+    }
     main section{
         padding: 0;
     }
