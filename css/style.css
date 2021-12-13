@@ -202,7 +202,7 @@ footer *{
         
     }
     main section h2{
-        font-size: small;
+        font-size: 1.6rem;
     }
 
     main section p, main section:nth-child(3), main section:nth-child(4), main section:nth-child(5){
