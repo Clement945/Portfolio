@@ -204,12 +204,10 @@ footer *{
         font-size: small;
     }
 
-    main section:nth-child(3), main section:nth-child(4), main section:nth-child(5){
+    main section p, main section:nth-child(3), main section:nth-child(4), main section:nth-child(5){
         font-size: small;
     }
-    main section p{
-        font-size: small;
-    }
+   
     /*main section h2:before{
         object-fit: cover;
         filter: grayscale(100%);
