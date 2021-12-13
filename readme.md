@@ -31,10 +31,12 @@ Application web : Portfolio Clément Arki
 
 ``` css
 
+/*reset*/
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400&family=Open+Sans:wght@300;400;500&display=swap');
 
 html{
     font-size: 62.5%;
+    scroll-behavior: smooth;
 }
 
 body{
@@ -70,7 +72,7 @@ a{
     --color-secondary: #2b5797;
     --color-trois: #FFFFFF;
     --color-quatre: #DC143C;
-    --color-cinq: #A9A9A9;
+    --color-cinq: #fff;
     --color-six: rgb(240, 232, 232);
 }
 
