@@ -50,7 +50,7 @@ header h1{
     
 }
 main, footer{
-    max-width: 80rem;
+    max-width: 95rem;
     margin: 0 auto 3rem;
     line-height: 3rem;
 }
@@ -167,7 +167,7 @@ main section:nth-child(2) ul li{
     /* width: calc(100% / 3 - 1rem);*/
     padding: .2rem;
     border : .1rem solid var(--color-primary);
-    margin: 2.2rem;
+    margin: 3.7rem;
     
 }
 
