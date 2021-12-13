@@ -181,6 +181,9 @@ footer *{
 /*responsive */
 
 @media screen and (max-width:70.0rem){
+    html{
+    scroll-behavior: smooth;
+    }
     main, footer {
         margin: 0;
         width:  auto;
