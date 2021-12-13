@@ -39,6 +39,7 @@ a{
     --color-secondary: #2b5797;
     --color-trois: #FFFFFF;
     --color-quatre: #DC143C;
+    --color-cinq: #fff;
     --color-six: rgb(240, 232, 232);
 }
 
@@ -266,7 +267,7 @@ footer *{
     }
     nav ul li{
         display: block;
-        border-bottom: solid #fff .1rem;
+        border-bottom: solid var(--color-cinq) .1rem;
         text-align: justify;
     }
 
