@@ -203,6 +203,10 @@ footer *{
     main section h2{
         font-size: small;
     }
+    main section h2:before{
+    filter: grayscale(80%);
+    }
+
     main section{
         padding: 0;
     }
