@@ -18,7 +18,7 @@ Application web : Portfolio Clément Arki
     <link rel="icon" type="image/ico"  href="favicon/favicon.ico">
     <link rel="manifest" href="./favicon/site.webmanifest">
     <link rel="stylesheet" type="text/css" href="./css/style.css">
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 </head>
 
 <body>
