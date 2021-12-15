@@ -84,7 +84,8 @@ header img{
     object-fit: cover;  /* couleur ou noir et blanc */
     filter: grayscale(15%);  /* couleur ou noir et blanc en arrangeant */
     clip-path: circle(45%);  /* met en rond */
-    z-index: 2;
+    z-index: 2;     /*La propriété z-index permet de préciser l'empilement de certains éléments d'une page, c'est-à-dire sur l'axe vertical.
+                    La propriété z-index détermine l'ordre des éléments positionnés (c'est-à-dire des éléments dont la valeur de position est absolue, fixe ou relative)*/
 }
 header{
    /* position: relative;*/
