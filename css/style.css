@@ -51,13 +51,14 @@ header h1{
 }
 main, footer{
     max-width: 95rem;
-    margin: 0 auto 3rem;
+    margin: 1rem auto 3rem;
     line-height: 3rem;
 }
 
 main{
     background-color: #5d8898;
     border-radius: .5rem;
+    /*margin-top: 1rem;*/
 }
 
 body{
