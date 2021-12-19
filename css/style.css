@@ -41,6 +41,8 @@ a{
     --color-quatre: #DC143C;
     --color-cinq: #fff;
     --color-six: rgb(240, 232, 232);
+    --color-sept : #5d8898;
+    --color-huit : #b2d8e9;
 }
 
 header h1{
@@ -56,13 +58,13 @@ main, footer{
 }
 
 main{
-    background-color: #5d8898;
+    background-color: var(--color-sept) ;
     border-radius: .5rem;
     /*margin-top: 1rem;*/
 }
 
 body{
-    background-color: #b2d8e9;
+    background-color: var(--color-huit) ;
 }
 
 section{

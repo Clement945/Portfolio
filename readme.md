@@ -74,6 +74,8 @@ a{
     --color-quatre: #DC143C;
     --color-cinq: #fff;
     --color-six: rgb(240, 232, 232);
+    --color-sept : #5d8898;
+    --color-huit : #b2d8e9;
 }
 
 header h1{
@@ -83,8 +85,8 @@ header h1{
     
 }
 main, footer{
-    max-width: 80rem;
-    margin: 0 auto 3rem;
+    max-width: 95rem;
+    margin: 1rem auto 3rem;
     line-height: 3rem;
 }
 
