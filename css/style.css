@@ -189,7 +189,7 @@ footer *{
 
     main, footer {
         margin: 0 auto;
-        width: auto;
+        max-width: 150rem;  /* adaptée pour Ipad */
     }
     
     header img{
