@@ -129,6 +129,7 @@ section p{
     line-height: 2.6rem;
     background-color: var(--color-six);
     border-radius: .4rem;
+    padding: 1rem;
 }
 
 section ul{
