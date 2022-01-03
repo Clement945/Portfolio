@@ -1,6 +1,13 @@
 # &#128512; Portfolio
 
 Application web : Portfolio Clément Arki
+
+
+## Site web Portfolio 
+
+Le lien du Portfolio ce trouve ici : https://clement945.github.io/Portfolio/
+
+
 ## Html (bout de code) :
 ``` html
 
@@ -98,7 +105,3 @@ main, footer{
 * asset/
 * js/
 * favicon/
-
-## Site web Portfolio 
-
-Le lien du Portfolio ce trouve ici : https://clement945.github.io/Portfolio/
